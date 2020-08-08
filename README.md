@@ -1,6 +1,6 @@
 # What is this?
 
-With this package you can set perfect shadow for your html elements.
+With this package you can set the perfect shadow for your html elements.
 
 # Installation
 
