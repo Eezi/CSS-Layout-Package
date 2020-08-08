@@ -1,5 +1,5 @@
-function shadowMaker(options){
-    let images = document.querySelectorAll('.npmpackage');
+function shadowmaker(options){
+    let images = document.querySelectorAll('.shadowmaker');
 
     if(options.shadow_type === 'hard')
         options.shadow_type = '0px'
@@ -15,4 +15,4 @@ function shadowMaker(options){
     })
 }
 
-module.exports.shadowMaker = shadowMaker;
+module.exports.shadowmaker = shadowmaker;

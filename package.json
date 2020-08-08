@@ -1,0 +1,22 @@
+{
+  "name": "shadowoptions",
+  "version": "1.0.0",
+  "description": "Add awesome shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eezi/shadowPackage.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Tomi Salo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eezi/shadowPackage/issues"
+  },
+  "homepage": "https://github.com/Eezi/shadowPackage#readme"
+}
