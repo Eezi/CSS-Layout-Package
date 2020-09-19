@@ -10,7 +10,7 @@ then...
 
 ***
 
-import { shadowpackage } from 'shadowpackage';
+import { shadowmaker } from 'shadowoptions';
 
 shadowpackage({
     shadow_type: 'soft'
