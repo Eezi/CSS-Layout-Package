@@ -1,10 +1,12 @@
-import { shadowMaker, cardMaker } from './index.js'
+import { shadowMaker, cardsContainerMaker, cardMaker } from './index.js'
 
-shadowMaker({
+/*shadowMaker({
     padding: true,
     shadow_type: 'medium'
-});
+});*/
 
-cardMaker({
-    card_type: 'small'
+cardsContainerMaker({
+    cards_size: 'medium'
 })
+
+cardMaker()
