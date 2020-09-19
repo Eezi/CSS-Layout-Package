@@ -4,7 +4,7 @@ With this package you can set the perfect shadows for your html elements.
 
 # Installation
 
-`npm i shadowpackage`
+`npm i shadowoptions`
 
 then...
 
