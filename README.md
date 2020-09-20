@@ -33,6 +33,6 @@ At the moment, there are 3 supported sizes.
 And you are also able to add cool shadows to them with cardMaker.
 *card_shadow* - boolean (Defaults to false).
 
-![] (assets/example.png)
+![](assets/example.png)
 
-https://user-images.githubusercontent.com/54830004/93713838-3bb2d380-fb67-11ea-8329-a28683caeb3f.png
+
