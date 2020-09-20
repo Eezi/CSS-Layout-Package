@@ -8,6 +8,7 @@ Also with this package you can set the perfect shadows for your html elements.
 `npm i csslayouts`
 
 then...
+
 You can use these modules easy with importing them.
 
 ***
@@ -26,11 +27,11 @@ cardMaker({
 
 # Options 
 
-At the moment cards sizes supports 3 options.
-*cards_size** - small, medium and large 
+At the moment, there are 3 supported sizes.
+*cards_size* - small, medium and large 
 
 And you are also able to add cool shadows to them with cardMaker.
-*card_shadow** - boolean (Defaults to false).
+*card_shadow* - boolean (Defaults to false).
 
 ![] (assets/example.png)
 
