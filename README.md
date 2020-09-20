@@ -1,27 +1,35 @@
 # What is this?
 
-With this package you can set the perfect shadows for your html elements.
+You can create responsive css grid cards and layouts with minimum effort. 
+Also with this package you can set the perfect shadows for your html elements.
 
 # Installation
 
-`npm i shadowoptions`
+`npm i csslayouts`
 
 then...
+You can use these modules easy with importing them.
 
 ***
 
-import { shadowmaker } from 'shadowoptions';
+import { shadowmaker, cardsContainerMaker, cardMaker } from 'shadowoptions';
 
-shadowpackage({
-    shadow_type: 'soft'
-    paddding: false
+cardsContainerMaker({
+    cards_size: 'small'
+});
+
+cardMaker({
+    card_shadow: true
 });
 
 ***
 
 # Options 
 
-Shadowpackage supports 2 options, both of which are optional:
+At the moment cards sizes supports 3 options.
+*cards_size** - small, medium and large 
 
-* *shadow_type* - _hard | soft_ (Defaults to soft)
-* *padding* - _boolean_ (Defaults to false)
+And you are also able to add cool shadows to them with cardMaker.
+*card_shadow** - boolean (Defaults to false).
+
+https://user-images.githubusercontent.com/54830004/93713838-3bb2d380-fb67-11ea-8329-a28683caeb3f.png
