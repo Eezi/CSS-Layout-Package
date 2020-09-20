@@ -7,11 +7,11 @@ Also with this package you can set the perfect shadows for your html elements.
 
 `npm i csslayouts`
 
-then...
 
-You can use these modules easy with importing them.
 
 ***
+
+You can use these modules easily with importing them.
 
 import { shadowmaker, cardsContainerMaker, cardMaker } from 'shadowoptions';
 
@@ -23,6 +23,16 @@ cardMaker({
     card_shadow: true
 });
 
+***
+
+When you are creating the html elements you can just add the class names to them.
+For example:
+
+<div class="cards">
+    <div class="card"></div>
+    <div class="card"></div>
+    <div class="card"></div>
+</div>
 ***
 
 # Options 
